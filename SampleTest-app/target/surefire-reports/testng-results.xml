@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestAll" duration-ms="68" started-at="2018-09-26T11:28:17Z" finished-at="2018-09-26T11:28:18Z">
+    <groups>
+    </groups>
+    <test name="order" duration-ms="68" started-at="2018-09-26T11:28:17Z" finished-at="2018-09-26T11:28:18Z">
+      <class name="SampleClass2Test">
+        <test-method status="PASS" signature="sampleFunction2()[pri:0, instance:SampleClass2Test@47fd17e3]" name="sampleFunction2" duration-ms="1" started-at="2018-09-26T11:28:18Z" finished-at="2018-09-26T11:28:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleFunction2 -->
+      </class> <!-- SampleClass2Test -->
+      <class name="SampleClass3Test">
+        <test-method status="PASS" signature="SampleFunction3()[pri:0, instance:SampleClass3Test@7cdbc5d3]" name="SampleFunction3" duration-ms="1" started-at="2018-09-26T11:28:18Z" finished-at="2018-09-26T11:28:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SampleFunction3 -->
+      </class> <!-- SampleClass3Test -->
+      <class name="SampleClass1Test">
+        <test-method status="PASS" signature="sampleFunction1()[pri:0, instance:SampleClass1Test@34033bd0]" name="sampleFunction1" duration-ms="18" started-at="2018-09-26T11:28:18Z" finished-at="2018-09-26T11:28:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleFunction1 -->
+      </class> <!-- SampleClass1Test -->
+    </test> <!-- order -->
+  </suite> <!-- TestAll -->
+</testng-results>
